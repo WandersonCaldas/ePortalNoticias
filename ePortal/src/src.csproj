@@ -210,6 +210,7 @@
     <Compile Include="Startup.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="ads.txt" />
     <Content Include="Content\bootstrap.css" />
     <Content Include="Content\bootstrap.min.css" />
     <Content Include="Content\build\css\custom.css" />
@@ -246,6 +247,8 @@
     <Content Include="Content\images\american-express.png" />
     <Content Include="Content\images\cropper.jpg" />
     <Content Include="Content\images\favicon.ico" />
+    <Content Include="Content\images\Flamengo-768x576.jpg" />
+    <Content Include="Content\images\gremioxinter.png" />
     <Content Include="Content\images\img.jpg" />
     <Content Include="Content\images\inbox.png" />
     <Content Include="Content\images\mastercard.png" />
@@ -257,6 +260,7 @@
     <Content Include="Content\images\prod-3.jpg" />
     <Content Include="Content\images\prod-4.jpg" />
     <Content Include="Content\images\prod-5.jpg" />
+    <Content Include="Content\images\truck.jpg" />
     <Content Include="Content\images\user.png" />
     <Content Include="Content\images\visa.png" />
     <Content Include="Content\js\datepicker\daterangepicker.js" />
@@ -4540,6 +4544,7 @@
     <Content Include="Content\docs\fonts\scss\_variables.scss" />
     <Content Include="Content\src\scss\custom.scss" />
     <Content Include="Content\src\scss\daterangepicker.scss" />
+    <None Include="Properties\PublishProfiles\publicar.pubxml" />
     <None Include="Scripts\jquery-1.10.2.intellisense.js" />
     <Content Include="Scripts\jquery-1.10.2.js" />
     <Content Include="Scripts\jquery-1.10.2.min.js" />
@@ -4565,7 +4570,6 @@
     <Content Include="Views\Shared\_Layout.cshtml" />
     <Content Include="Views\Home\About.cshtml" />
     <Content Include="Views\Home\Contact.cshtml" />
-    <Content Include="Views\Home\Index.cshtml" />
     <Content Include="Views\Account\_ExternalLoginsListPartial.cshtml" />
     <Content Include="Views\Account\ConfirmEmail.cshtml" />
     <Content Include="Views\Account\ExternalLoginConfirmation.cshtml" />
@@ -4587,7 +4591,7 @@
     <Content Include="Views\Shared\Lockout.cshtml" />
     <Content Include="Views\Shared\_LoginPartial.cshtml" />
     <Content Include="Views\Shared\_Template.cshtml" />
-    <Content Include="Views\Home\teste.cshtml" />
+    <Content Include="Views\Home\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
