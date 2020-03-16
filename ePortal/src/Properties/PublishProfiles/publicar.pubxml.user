@@ -133,7 +133,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/12/2020 19:31:45</publishTime>
     </File>
     <File Include="bin/src.dll">
-      <publishTime>03/14/2020 08:30:26</publishTime>
+      <publishTime>03/16/2020 08:14:29</publishTime>
     </File>
     <File Include="bin/System.Web.Helpers.dll">
       <publishTime>03/12/2020 19:31:44</publishTime>
@@ -376,7 +376,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/12/2020 20:57:30</publishTime>
     </File>
     <File Include="Content/images/gremioxinter.png">
-      <publishTime>03/12/2020 21:13:23</publishTime>
+      <publishTime>12/03/2020 21:13:23</publishTime>
     </File>
     <File Include="Content/images/img.jpg">
       <publishTime>03/12/2020 19:31:45</publishTime>
@@ -13195,7 +13195,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/12/2020 19:31:51</publishTime>
     </File>
     <File Include="Scripts/_references.js">
-      <publishTime>03/14/2020 08:19:53</publishTime>
+      <publishTime>03/14/2020 08:50:37</publishTime>
     </File>
     <File Include="Views/Account/ConfirmEmail.cshtml">
       <publishTime>03/12/2020 19:31:51</publishTime>
@@ -13240,7 +13240,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/12/2020 19:31:51</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>03/13/2020 22:13:40</publishTime>
+      <publishTime>03/16/2020 08:18:52</publishTime>
+    </File>
+    <File Include="Views/Home/politica.cshtml">
+      <publishTime>03/16/2020 08:07:39</publishTime>
     </File>
     <File Include="Views/Manage/AddPhoneNumber.cshtml">
       <publishTime>03/12/2020 19:31:51</publishTime>
@@ -13273,7 +13276,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/12/2020 19:31:51</publishTime>
     </File>
     <File Include="Views/Shared/_Template.cshtml">
-      <publishTime>03/14/2020 08:19:24</publishTime>
+      <publishTime>03/14/2020 15:56:44</publishTime>
     </File>
     <File Include="Views/Web.config">
       <publishTime>03/12/2020 19:31:51</publishTime>

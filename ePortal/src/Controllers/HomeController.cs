@@ -27,7 +27,7 @@ namespace src.Controllers
             return View();
         }
 
-        public ActionResult teste()
+        public ActionResult politica()
         {            
 
             return View();
