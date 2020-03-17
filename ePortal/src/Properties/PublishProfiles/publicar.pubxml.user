@@ -376,7 +376,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/12/2020 20:57:30</publishTime>
     </File>
     <File Include="Content/images/gremioxinter.png">
-      <publishTime>12/03/2020 21:13:23</publishTime>
+      <publishTime>03/12/2020 21:13:23</publishTime>
     </File>
     <File Include="Content/images/img.jpg">
       <publishTime>03/12/2020 19:31:45</publishTime>
@@ -13240,7 +13240,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>03/12/2020 19:31:51</publishTime>
     </File>
     <File Include="Views/Home/Index.cshtml">
-      <publishTime>03/16/2020 08:18:52</publishTime>
+      <publishTime>03/17/2020 07:39:47</publishTime>
     </File>
     <File Include="Views/Home/politica.cshtml">
       <publishTime>03/16/2020 08:07:39</publishTime>
